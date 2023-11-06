@@ -1,0 +1,428 @@
+*{
+    background-color: crimson;
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 00px;
+    margin: 40px;
+    border: solid 5px black;
+    font-size: large;
+    background-color: orange;
+    font-size: 30px;
+    opacity: 0.7;
+
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+    justify-content: center;
+    text-align: inline;
+    display: flex;
+    margin-top: 30px;
+}
+
+
+img{
+    width: 400px;
+    height: 300px;
+    display: flex;
+    margin-left: 50px;
+}
+.image{
+    display: flex;
+    margin-top: 100px;
+}
+
+.nom{
+    display: flex;
+}
+
+.nom .btn1{
+    margin-left: 200px;
+    background-color: blue;
+    font-size: 25px;
+}
+
+.nom .btn2{
+    margin-left: 350px;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+    font-size: 25px;
+}
+
+.nom .btn3{
+    margin-left: 300px;
+    background-color: red;
+    font-size: 25px;
+}
+
+.image .img1{
+    border: solid 10px blue;
+}
+
+.image .img2{
+    border: solid 10px bisque;
+}
+
+.image .img3{
+    border: solid 10px red;
+}
+
+body .accueil{
+display: flex;
+margin-top: 100px;
+align-items: center;
+justify-content: center;
+}
+
+body .accueil .font{
+    border: solid 8px black;
+    margin-top: 50px;
+}
+body .apropos .span{
+    color: red;
+}
+
+body .apropos{
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+    color: purple;
+    text-decoration: underline;
+}
+.jb{
+    margin-top: 100px;
+}
+.jb .t{
+    text-align: center;
+    color: blue;
+    border: solid 2px white;
+    background-color: black;
+}
+.jb h3{
+    text-align: center;
+    color: blue;
+    border: solid 2px white;
+    border-width: 0px;
+    background-color: black;
+    opacity: 0.5;
+}
+.jb .te{
+    text-align: center;
+    color: white;
+    border: solid 2px white;
+    background-color: black;
+}
+.jb .tex{
+    text-align: center;
+    color: red;
+    border: solid 2px white;
+    background-color: black;
+}
+.title{
+    text-align: center;
+    margin-top: 100px;
+    color: black;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 100px;
+    opacity: 0.7;
+}
+.soustitle{
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 60px;
+    margin-top: auto;
+    margin-left: 200px;
+    opacity: 0.7;
+}
+.imageaccueil{
+    border: solid 10px black;
+    height: 100%;
+    width: 100%;
+    left: 50%;
+    top: 50%;
+    margin-top: 100px;
+}
+
+.lon{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    text-decoration: underline;
+    position: absolute;
+    object-position: 50%;
+    text-orientation: upright;
+}
+
+.local{
+    color: black;
+    text-align: center;
+    margin-top: 300px;
+    font-size: 30px;text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.locall{
+    color: gold;
+    text-align: center;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+.findepage{
+    text-align: center;
+    color: white;
+    text-decoration: overline;
+    font-size: 20px;
+}
+
+.carte{
+    text-align: center;
+    border: solid 8px brown;
+    margin-left: 500px;
+}
+
+.cotte{
+    display: flex;
+}
+
+.cote{
+    width: 400px;
+    border: solid 9px black;
+}
+
+.cote1{
+    width: 400px;
+    margin-left: 150px;
+    border: solid 9px black;
+}
+
+.exxpert{
+    margin-top: 40px;
+    text-align: center;
+    color: wheat;
+    background-color: black;
+    border: solid 2px white;
+}
+
+.coeur1{
+    color: black;
+    margin-top: 0;
+    margin-right: auto;
+    text-decoration: underline;
+    opacity: 0.8;
+    font-size: 25px;
+}
+
+.coeur2{
+    color: black;
+    margin-top: 0;
+    margin-left: auto;
+    text-decoration: underline;
+    opacity: 0.8;
+    font-size: 25px;
+}
+
+span{
+    color: orange;
+}
+
+.accc{
+    font-size: 150px;
+}
+
+.acccc{
+    color: orange;
+    font-size: 90px;
+}
+
+.loccal{
+    font-size: 45px;
+}
+
+.n{
+    font-size: 30px;
+    color: black;
+}
+
+.n1{
+    font-size: 30px;
+    color: black;
+}
+
+.e{
+    color: goldenrod;
+    font-size: 25px;
+}
+
+.manger{
+    color: white;
+}
+
+.ccc{
+    font-size: 30px;
+    background-color: bisque;
+}
+
+.moi{
+    color: black;
+    opacity: 0.5;
+}
+
+.mmoi{
+    color: black;
+    opacity: 0.5;
+    text-align: center;
+    background-color: bisque;
+    border: solid 2px black;
+    margin-top: 50px;
+}
+
+.p{
+    color: goldenrod;
+    font-size: 25px;
+}
+
+.d{
+    color: goldenrod;
+    font-size: 25px;
+}
+
+.b{
+    color: goldenrod;
+    font-size: 25px;
+}
+
+.repas{
+    border: solid 7px black;
+    size: initial;
+}
+
+.cui{
+    color: white;
+    opacity: 0.8;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.cuis{
+    display: inline-flex;
+    margin-left: 100px;
+}
+
+.banner{
+    min-height: 100vh;
+    background: url(./image/moi.jpg) center/ cover no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.card-contenair{
+    display: grid;
+    grid-template-columns: 420px 420px;
+}
+
+.banner h2{
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    color: black;
+}
+
+.card-img{
+    background: url(./image/terre.jpg) center/ cover no-repeat;
+}
+
+.card-content{
+    background: #fff;
+    background-color: #fff;
+    height: 330px;
+}
+
+.card-content h3{
+    text-align: center;
+    color: #000;
+    padding: 25px 0 10px 0;
+    font-size: 26px;
+    background-color: #fff;
+    font-weight: 500;
+}
+
+.form-row{
+    display: flex;
+    width: 100%;
+    background-color: #fff;
+    margin: 0;
+}
+
+form select, form input{
+    display: block;
+    width: 100%;
+    margin: 15px 12px;
+    padding: 5px;
+    font-size: 12px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #eee;
+    font-weight: 300;
+}
+
+.form input [type = text], form input [type = number], form input::placeholder, select{
+    color: #000;
+    background: #ef2745;
+
+.buttt{
+    color: #fff;
+    background: #ef2745;
+    padding: 12px 0;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100px;
+}
+
+form input [type = submit]:hover{
+    opacity: 0.9;
+}
+
+@media(max-width: 992px){
+    .card-contenair{
+        grid-template: 100%;
+    }
+
+    .card-img{
+        height: 330px;
+    }
+}
+}
+
+.merci{
+    color: #fff;
+    background-color: #000;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.mercci{
+    margin-top: 100px;
+    margin-left: 250px;
+    width: 1000px;
+}
+
+.zeitplan{
+    color: blue;
+}
